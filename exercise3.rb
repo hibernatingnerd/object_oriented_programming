@@ -1,4 +1,4 @@
-class Playerbo
+class Player
 
   def initialize
     @lives = 5
